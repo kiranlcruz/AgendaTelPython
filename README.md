@@ -1,1 +1,1 @@
-# AgendaTelPython Agenda telefônica criado em Python para a faculdade. 
+Agenda telefônica criado em Python para a faculdade. 
