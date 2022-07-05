@@ -210,3 +210,5 @@ def principal(): #Função para incializar a lista de contatos. Menu Principal.
             print("\nOpção inválida. Por favor, tente novamente.\n")
 
 principal()
+
+print("deus")
